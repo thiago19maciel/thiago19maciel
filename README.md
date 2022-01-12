@@ -4,7 +4,7 @@
 - 🔭 Busco oportunidade para ingressar no mercado de trabalho como desenvolvedor
 - 🌱 Estudando python
 - 😄 Pronouns: ele/dele
-- Confira meus projetos:
+- Confira meus projetos clicando no nome deles:
   1. [Gerador de senhas](https://github.com/thiago19maciel/Gerador-de-senhas-fortes) (desenvolvido na linguagem Python)
   2. [Projeto cadastro de pacientes](https://github.com/thiago19maciel/Projeto-cadastro-pacientes) (desenvolvido na linguagem C)
 
