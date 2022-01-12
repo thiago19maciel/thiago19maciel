@@ -1,10 +1,12 @@
 ## Olá eu sou o Thiago Maciel, iniciante em programação e apaixonado por tecnologia ❤️!
 
 
-- 🔭 Hoje trabalho como service desk
+- 🔭 Busco oportunidade para ingressar no mercado de trabalho como desenvolvedor
 - 🌱 Estudando python
 - 😄 Pronouns: ele/dele
-
+- Confira meus projetos:
+  1. [Gerador de senhas](https://github.com/thiago19maciel/Gerador-de-senhas-fortes) (desenvolvido na linguagem Python)
+  2. [Projeto cadastro de pacientes](https://github.com/thiago19maciel/Projeto-cadastro-pacientes) (desenvolvido na linguagem C)
 
 <div align="center">
   <a href="https://github.com/thiago19maciel">
