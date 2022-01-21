@@ -6,7 +6,8 @@
 - 😄 Pronouns: ele/dele
 - Confira meus projetos clicando no nome deles:
   1. [Gerador de senhas](https://github.com/thiago19maciel/Gerador-de-senhas-fortes) (desenvolvido na linguagem Python)
-  2. [Projeto cadastro de pacientes](https://github.com/thiago19maciel/Projeto-cadastro-pacientes) (desenvolvido na linguagem C)
+  2. [Jogo da velha](https://github.com/thiago19maciel/Gerador-de-senhas-fortes) (desenvolvido na linguagem Python)
+  3. [Projeto cadastro de pacientes](https://github.com/thiago19maciel/Projeto-cadastro-pacientes) (desenvolvido na linguagem C)
 
 <div align="center">
   <a href="https://github.com/thiago19maciel">
