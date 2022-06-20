@@ -1,4 +1,4 @@
-## Olá eu sou o Thiago Maciel, iniciante em programação e apaixonado por tecnologia ❤️!
+## Olá eu sou o Thiago Maciel, tenho conhecimento em Java, C e sou apaixonado por Python ❤️!
 
 
 - 🔭 Busco oportunidade para ingressar no mercado de trabalho como desenvolvedor
